@@ -42,7 +42,7 @@ The summary DataFrame
 multiple-line graph 
   - Include images of the summary DataFrame table and the multiple-line graph in these results.
 
-![Summary DataFrame of Key Metrics](analysis/Fig9 - Screenshot.jpg)
+[Summary DataFrame of Key Metrics](analysis/Fig9 - Screenshot.jpg)
 
 - A short summary of the results.
 
